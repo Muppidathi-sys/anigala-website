@@ -251,7 +251,7 @@
   /* HERO SECTION */
   .hero {
     min-height: 100vh;
-    background: url('assets/hero.png') no-repeat center center;
+    background: url('assets/hero.png') no-repeat center left;
     background-size: cover;
     display: grid;
     grid-template-columns: repeat(12, 1fr);
