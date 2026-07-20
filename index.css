@@ -251,7 +251,7 @@
   /* HERO SECTION */
   .hero {
     min-height: 100vh;
-    background: url('assets/hero.png') no-repeat center left;
+    background: url('assets/hero.webp') no-repeat center left;
     background-size: cover;
     display: grid;
     grid-template-columns: repeat(12, 1fr);
@@ -539,7 +539,7 @@
   .divider-section {
     position: relative;
     height: 360px;
-    background: url('assets/tamirabarani_divider.png') no-repeat center center;
+    background: url('assets/tamirabarani_divider.webp') no-repeat center center;
     background-size: cover;
     background-attachment: fixed; /* Parallax effect */
     display: flex;
